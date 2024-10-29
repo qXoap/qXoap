@@ -14,6 +14,7 @@
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![C#](https://img.shields.io/badge/-C%23-000000?style=flat&logo=c-sharp)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=kotlin)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
