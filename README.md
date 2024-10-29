@@ -17,7 +17,6 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=kotlin)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
-![MariaDB](https://img.shields.io/badge/-MariaDB-000000?style=flat&logo=mariadb)
 
 ##### Some of the technologies I have worked with
 
@@ -27,6 +26,7 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-222222?style=flat&logo=laravel&logoColor=339933)
 ![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
 ![Firebase](https://img.shields.io/badge/Firebase-222222?style=flat-square&logo=firebase)
+![.NET](https://img.shields.io/badge/.NET-222222?style=flat-square&logo=.NET)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 <br/>
 ---
